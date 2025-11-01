@@ -1,3 +1,5 @@
+**Note:** This work is in DRAFT phase. Use at your own will and risk.
+
 # Building Backpropagation and Neural Networks from Scratch
 
 ## What This Notebook Is About

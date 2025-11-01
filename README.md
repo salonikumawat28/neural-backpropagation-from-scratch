@@ -15,7 +15,7 @@ Together, these two systems form a complete deep learning framework. At the end,
 ## What We'll Build
 
 **Automatic Differentiation System:**
-- `Scalar` class that tracks operations and stores gradients
+- `Scalar` and `Vector` class that tracks operations and stores gradients
 - Forward pass: Record all operations in a computation graph
 - Backward pass: Automatically compute gradients using the chain rule
 - Support for basic operations (addition, multiplication) and activation functions (ReLU)
